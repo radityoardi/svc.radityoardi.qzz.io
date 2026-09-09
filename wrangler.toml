@@ -5,8 +5,6 @@ type = "modules"
 
 # Replace the placeholders below with your Cloudflare account/zone IDs
 account_id = "5c6ecb10e4803339aec471966b866236"
-zone_id = "68f17ab779bcc1672ef856c18f63fdb8"
-routes = ["svc.radityoardi.qzz.io/*"]
 workers_dev = false
 
 [build]
